@@ -1,7 +1,7 @@
 #ifndef QTMATERIALFLATBUTTON_INTERNAL_H
 #define QTMATERIALFLATBUTTON_INTERNAL_H
 
-#include <QStateMachine>
+#include <QtStateMachine/QStateMachine>
 #include <QColor>
 
 class QtMaterialFlatButton;

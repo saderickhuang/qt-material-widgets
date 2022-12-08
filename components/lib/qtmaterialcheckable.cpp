@@ -2,9 +2,9 @@
 #include "lib/qtmaterialcheckable_p.h"
 #include <QPainter>
 #include <QEvent>
-#include <QStateMachine>
-#include <QSignalTransition>
-#include <QEventTransition>
+#include <QtStateMachine/QStateMachine>
+#include <QtStateMachine/QSignalTransition>
+#include <QtStateMachine/QEventTransition>
 #include <QColor>
 #include <QCoreApplication>
 #include "lib/qtmaterialrippleoverlay.h"

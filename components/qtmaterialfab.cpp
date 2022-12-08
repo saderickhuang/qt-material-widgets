@@ -1,7 +1,7 @@
 #include "qtmaterialfab.h"
 #include "qtmaterialfab_p.h"
 #include <QtWidgets/QGraphicsDropShadowEffect>
-#include <QState>
+#include <QtStateMachine/QState>
 #include <QEvent>
 #include <QPainter>
 #include "lib/qtmaterialrippleoverlay.h"

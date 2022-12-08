@@ -1,7 +1,7 @@
 #ifndef QTMATERIALAUTOCOMPLETESTATEMACHINE_H
 #define QTMATERIALAUTOCOMPLETESTATEMACHINE_H
 
-#include <QStateMachine>
+#include <QtStateMachine/QStateMachine>
 #include "qtmaterialautocomplete.h"
 
 class QtMaterialAutoCompleteStateMachine : public QStateMachine

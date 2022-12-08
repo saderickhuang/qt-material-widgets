@@ -12,7 +12,8 @@ AppBarSettingsEditor::AppBarSettingsEditor(QWidget *parent)
 {
     QLabel *label = new QLabel("Inbox");
     label->setAttribute(Qt::WA_TranslucentBackground);
-    label->setForegroundRole(QPalette::Foreground);
+    //label->setForegroundRole(QPalette::Foreground);//This value is obsolete. Use WindowText instead.
+    label->setForegroundRole(QPalette::WindowText);
     label->setContentsMargins(6, 0, 0, 0);
 
     QPalette palette = label->palette();

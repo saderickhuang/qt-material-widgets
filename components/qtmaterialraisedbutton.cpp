@@ -1,10 +1,10 @@
 #include "qtmaterialraisedbutton.h"
 #include "qtmaterialraisedbutton_p.h"
-#include <QStateMachine>
+#include <QtStateMachine/QStateMachine>
+
 #include <QtWidgets/QGraphicsDropShadowEffect>
 #include <QPropertyAnimation>
-#include <QEventTransition>
-
+#include <QtStateMachine/QEventTransition>
 /*!
  *  \class QtMaterialRaisedButtonPrivate
  *  \internal

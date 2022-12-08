@@ -1,8 +1,8 @@
 #include "qtmaterialcheckbox.h"
 #include "qtmaterialcheckbox_p.h"
 #include <QPropertyAnimation>
-#include <QSignalTransition>
-#include <QState>
+#include <QtStateMachine/QSignalTransition>
+#include <QtStateMachine/QState>
 #include "lib/qtmaterialcheckable_internal.h"
 
 /*!

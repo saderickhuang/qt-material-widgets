@@ -2,8 +2,8 @@
 #include "qtmaterialdialog_p.h"
 #include <QtWidgets/QStackedLayout>
 #include <QtWidgets/QGraphicsDropShadowEffect>
-#include <QStateMachine>
-#include <QState>
+#include <QtStateMachine/QStateMachine>
+#include <QtStateMachine/QState>
 #include <QtWidgets/QApplication>
 #include <QPropertyAnimation>
 #include <QPainter>

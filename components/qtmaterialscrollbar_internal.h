@@ -1,7 +1,7 @@
 #ifndef QTMATERIALSCROLLBAR_INTERNAL_H
 #define QTMATERIALSCROLLBAR_INTERNAL_H
 
-#include <QStateMachine>
+#include <QtStateMachine/QStateMachine>
 #include "qtmaterialscrollbar.h"
 
 class QtMaterialScrollBarStateMachine : public QStateMachine

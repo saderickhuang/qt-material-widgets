@@ -1,7 +1,7 @@
 #ifndef QTMATERIALTEXTFIELD_INTERNAL_H
 #define QTMATERIALTEXTFIELD_INTERNAL_H
 
-#include <QStateMachine>
+#include <QtStateMachine/QStateMachine>
 #include <QtWidgets/QWidget>
 #include "qtmaterialtextfield.h"
 

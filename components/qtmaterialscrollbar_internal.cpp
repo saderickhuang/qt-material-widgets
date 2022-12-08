@@ -1,6 +1,6 @@
 #include "qtmaterialscrollbar_internal.h"
 #include <QPropertyAnimation>
-#include <QEventTransition>
+#include <QtStateMachine/QEventTransition>
 
 /*!
  *  \class QtMaterialScrollBarStateMachine

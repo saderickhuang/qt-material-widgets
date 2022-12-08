@@ -1,7 +1,7 @@
 #include "qtmaterialradiobutton.h"
 #include "qtmaterialradiobutton_p.h"
-#include <QStateMachine>
-#include <QState>
+#include <QtStateMachine/QStateMachine>
+#include <QtStateMachine/QState>
 #include <QPropertyAnimation>
 #include <QColor>
 #include "lib/qtmaterialcheckable_internal.h"

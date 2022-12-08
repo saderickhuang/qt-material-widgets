@@ -1,7 +1,8 @@
 #ifndef QTMATERIALSNACKBAR_INTERNAL_H
 #define QTMATERIALSNACKBAR_INTERNAL_H
 
-#include <QStateMachine>
+
+#include <QtStateMachine/QStateMachine>
 #include <QTimer>
 
 class QtMaterialSnackbar;

@@ -1,8 +1,8 @@
 #include "qtmaterialslider_internal.h"
-#include <QState>
-#include <QAbstractTransition>
-#include <QSignalTransition>
-#include <QEventTransition>
+#include <QtStateMachine/QState>
+#include <QtStateMachine/QAbstractTransition>
+#include <QtStateMachine/QSignalTransition>
+#include <QtStateMachine/QEventTransition>
 #include <QPropertyAnimation>
 #include <QPainter>
 #include "qtmaterialslider.h"

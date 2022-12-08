@@ -1,8 +1,8 @@
 #include "qtmaterialdrawer_internal.h"
-#include <QState>
+#include <QtStateMachine/QState>
 #include <QPainter>
 #include <QtWidgets/QLayout>
-#include <QSignalTransition>
+#include <QtStateMachine/QSignalTransition>
 #include <QPropertyAnimation>
 #include "qtmaterialdrawer.h"
 
